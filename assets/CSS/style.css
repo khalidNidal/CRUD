@@ -1,0 +1,157 @@
+.img-w{
+width: 90%;
+
+}
+
+
+.button:hover i{
+    transition: 3px;
+}
+.yeallow .card {
+    background-color: #ffe979;
+}
+
+.yeallow .btn {
+    background-color:               #e0bb00;
+    font-size: small;
+    font-weight: 650;
+    padding-top: 5px;
+    padding-bottom: 8px;    
+}
+
+
+.green .card {
+    background-color: #b7f598;
+}
+.green .btn{
+    background-color:#65ba3b;
+    font-size: small;
+    font-weight: 650;
+    padding-top: 5px;
+    padding-bottom: 8px; 
+
+}
+
+
+.green img{
+    width: 57%;
+}
+
+
+
+
+
+.blue .card {
+    background-color: #7ed5f0;
+}
+.blue .btn{
+    background-color:#1698c0;
+    font-size: small;
+    font-weight: 650;
+    padding-top: 5px;
+    padding-bottom: 8px; 
+
+}
+
+
+.blue img{
+   width: 59%;
+}
+
+
+
+.card{
+    opacity: 1;
+
+    transition: 0.3s;
+    
+}
+
+.card:hover{
+    opacity: 0.9;
+   transform: scale(1.05);
+}
+
+
+.website_owner h2{
+    width: 43% !important;
+}
+
+.website_owner p{
+
+
+    font-size: 18px !important;
+    color: #9d9d9d;
+
+}
+
+.ii{
+    width: 30%;
+    margin-bottom:20px;
+}
+
+
+
+.pic{
+    background-color: #ffe979;
+    
+    height: 95vh;
+
+}
+.pic img {
+    height: 95vh;
+    width :40%;
+    background-size: 100px;
+}
+
+
+
+
+
+.pic p img{
+    width: 3%;
+    height: 6%;
+    position:absolute  ;
+   left: 0;
+   top: 0;
+
+
+}
+
+
+.buy .row{
+    background-color: #b7f598;
+    height: 480px;
+    margin-top: 1000px;
+}
+
+.buy-text h2{
+    width: 70%;
+}
+
+.buy-text p{
+    width: 75% !important;
+    font-size:large;
+}
+.buy-img img{
+    width: 85%;
+}   
+
+
+
+
+
+.copy-right{
+    font-size: 13px;
+}
+
+
+.cont{
+    width: 90%;
+}
+
+
+.cont .ee{
+    border-top: solid 2px rgb(51, 51, 51);
+
+}
